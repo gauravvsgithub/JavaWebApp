@@ -19,7 +19,7 @@
 	<div class="loginform">
 		<form action="Login" method="post">
 			<b>Enter username :</b> <input type="text" name="uname" class="my-3"><br>
-			<b> Enter password :</b> <input type="password" name="pass" class="my-1"><br>
+			<b> Enter password:</b> <input type="password" name="pass" class="my-1"><br>
 			<input class="btn btn-success my-3" type="submit" value="login">
 		</form>
 	</div>
